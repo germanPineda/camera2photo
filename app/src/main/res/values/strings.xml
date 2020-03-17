@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Camera API 2</string>
+
+    <string name="creators">Jenny Prado &amp; Mauricio Colin</string>
+    <string name="title">Resumen de la propuesta transimpresionismo</string>
+    <string name="sub_title">Piezas pictóricas serie Ctrl+i</string>
+    <string name="quantity">Cantidad de piezas de la propuesta TRANSIMPRESIONISMO:</string>
+    <string name="sub_quantity">6</string>
+    <string name="years">Años de creacion: </string>
+    <string name="sub_years">2016/2017</string>
+    <string name="technique">Técnica/Materiales: </string>
+    <string name="sub_technique">Cuatro piezas al Temple sobre madera</string>
+    <string name="disclaimer">Todas las piezas utilizan lentes de realidad virtual con dispositivo inteligente e instala una aplicación para teléfonos móviles.</string>
+    <string name="paragraph_1_question">¿Qués es el transimpresionismo?</string>
+    <string name="paragraph_1_answer">
+        Es un neolismo compuesto por el prefijo de raíz latina trans- que significa "de un lado a otro" y hace referencia abreviada al concepto "Trascendental", que se suma al "Impresionismo". éste tomado del movimiento artístico de finales del siglo xix y principios de xx, en el que se aborda, como motivo estético central, el enfocarse en los efectos que la luz produce sobre los objetos, en una inquietud por reproducir atmósferas, de ambientes naturales y situaciones humanas, desde una visión de iluminación en su aspecto espiritual, intuitivo y ontólogico, -citando a Kant (KANT, I. KrV. B 348/A292)- "…lo sensible que traspasa límites de la experiencia.", una meditación sobre lo trascendeltal en las expresiones artísticas que obtiene, para toda obra Transimpresionista, un efecto que trasciende lo dimensional tangible hacia lo virtual potencialmente aperceptivo de la materia.
+    </string>
+    <string name="paragraph_2_question">¿Qué actividades toman como eje el Transimpresionismo?</string>
+    <string name="paragraph_2_answer">
+        La multidisciplinariedad en las artes, se enriquece cuando visita otras ramas del quehacer humano, y aunque siempre ha sucedido, es actualmente que hallamos mayor apertuyra para enriquecer áreas de creación e investigación estética, apoyads en tecnologías novedosas, interactivas y y de conectividad global, donde además, ciencia, ingeniería y diseño, por ejemplo, tambien se benefician de los alcances en la expresión artística multidisciplinar. El acceso a información y el intercambio de saberes con otros profesionales en su ramo, siempre ha enriquecido mis inquietudes estéticas, el cuerpo de mi obra contiene elementos cientifíficos que, de acuerdo al desarrollo aplicado a la obra, la concecuencia derivó en distintas variantes de las relaciones, particularmente, acústicas, vibracionales, estéticas y epstemológicas.
+    </string>
+</resources>
